@@ -1,0 +1,4 @@
+.placeholder-multiline::placeholder {
+    white-space: pre-wrap; 
+  }
+  
